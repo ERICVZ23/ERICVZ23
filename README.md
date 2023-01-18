@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ERICVZ23
 - 👀 I’m interested in learning new things and meeting people.  
 - 🌱 I’m currently learning to code. 
-- 📫 How to reach me...
 Learning HTML, CSS, and JAVASCRIPT.
 <!---
 ERICVZ23/ERICVZ23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
