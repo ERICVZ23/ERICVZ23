@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ERICVZ23
 - 👀 I’m interested in learning new things and meeting people.  
 - 🌱 I’m currently learning to code. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
 Learning HTML, CSS, and JAVASCRIPT.
 <!---
